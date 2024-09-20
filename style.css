@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --bg-color: #921A40;
+    --primary-color:#C75B7A;
+    --secondary-color:#F4D9D0 ;
+}
+
+body{
+    background-color: var(--bg-color);
+    color: var(--secondary-color);
+}
